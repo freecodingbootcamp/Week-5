@@ -2,6 +2,8 @@
 
 ### [Day 1](https://github.com/freecodingbootcamp/Week-5/tree/master/Day-1):
 
+- Solving JavaScript Challenges
+
 ### [Day 2](https://github.com/freecodingbootcamp/Week-5/tree/master/Day-2):
 
 ### [Day 3](https://github.com/freecodingbootcamp/Week-5/tree/master/Day-3):

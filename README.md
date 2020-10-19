@@ -13,3 +13,5 @@
 ### [Day 4](https://github.com/freecodingbootcamp/Week-5/tree/master/Day-4):
 
 ### [Day 5](https://github.com/freecodingbootcamp/Week-5/tree/master/Day-5):
+
+- Intro to jQuery
